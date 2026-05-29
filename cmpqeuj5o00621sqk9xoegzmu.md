@@ -9,3 +9,5 @@ slug: test-article
 ```plaintext
 nixos-rebuild-ng switch --flake .#hive --target-host hive.frn.ink --sudo --build-host hive.frn.ink
 ```
+
+Some extra text from git.
